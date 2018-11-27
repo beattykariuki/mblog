@@ -1,6 +1,6 @@
-## Personal-Blog App
+## My-Blog
 
-This is a web application named personal_blog that allows users to view & comment on blogs based on categories
+This is a web application named My-blog that allows users to view & comment on blogs based on categories
 
 ## Author
 Betty Kariuki
