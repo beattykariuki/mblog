@@ -4,9 +4,7 @@ from app.models import *
 from flask_migrate import Migrate, MigrateCommand
 
 
-# app = create_app('production')
-
-# app = create_app('test')
+app = create_app('production')
 
 app = create_app('development')
 
