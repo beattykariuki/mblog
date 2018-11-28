@@ -141,7 +141,7 @@ def subscriber():
        db.session.add(subscriber)
        db.session.commit()
 
-       mail_message("Hello, Welcome To Cherucole's Blog.","email/welcome_user",subscriber.email,subscriber=subscriber)
+       mail_message("Hello, Welcome To Fashion Blog.","email/welcome_user",subscriber.email,subscriber=subscriber)
        return redirect(url_for('main.index', posts=posts))
 
    subscriber = Post.query.all()
