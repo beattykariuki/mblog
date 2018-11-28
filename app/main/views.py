@@ -138,8 +138,8 @@ def subscriber():
 
        subscriber= Subscriber(email=subscriber_form.email.data,name = subscriber_form.name.data)
 
-       db.session.add(subscriber)
-       db.session.commit()
+       db.session.add(subscriber):
+       db.session.commit():
 
        mail_message("Hello, Welcome To Fashion Blog.","email/welcome_user",subscriber.email,subscriber=subscriber)
        return redirect(url_for('main.index', posts=posts))

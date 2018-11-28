@@ -1,7 +1,7 @@
-![Cherucole's-Blog](https://www.lifesafar.com/wp-content/uploads/2018/01/blog.jpg)
 
 A way for users to submit one minute pitches depending on the category they like.
-The app is live here [Pitchify-pro](https://cherucole-blog.herokuapp.com/).
+The app is live here [Pitchify-pro]https://bettyblogger.herokuapp.com/
+
 
 
 Features
